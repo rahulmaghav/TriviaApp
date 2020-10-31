@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+
+    <string name="next">next</string>
+    <string name="select_any_one">Select any one.</string>
+    <string name="select_more_than_one">Select more than 1</string>
+    <string name="hello">Hello %s,</string>
+    <string name="summary">SUMMARY</string>
+    <string name="here_are_the_answers_selected">Here are the answers selected:</string>
+    <string name="answer">Answer :</string>
+    <string name="no_history_found">No history found</string>
+    <string name="name">Name :</string>
+    <string name="finish">Finish</string>
+    <string name="history">History</string>
+    <string name="game">GAME</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+</resources>
